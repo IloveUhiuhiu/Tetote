@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "msnodesqlv8": "^4.2.1",
+    "mssql": "^10.0.2",
+    "path": "^0.12.7",
+    "util": "^0.12.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "tetote",
+  "version": "1.0.0",
+  "description": "long luu",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IloveUhiuhiu/Tetote.git"
+  },
+  "author": "LateBird",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IloveUhiuhiu/Tetote/issues"
+  },
+  "homepage": "https://github.com/IloveUhiuhiu/Tetote#readme"
+}
