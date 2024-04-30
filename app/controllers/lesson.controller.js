@@ -1,4 +1,4 @@
-const Lesson = require('../models/lesson.model')
+const Lesson = require('../service/lesson.service')
 
 exports.read = async(req, res) => {
     const lesson = await Lesson.read();
